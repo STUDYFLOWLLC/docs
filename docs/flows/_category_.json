@@ -1,0 +1,8 @@
+{
+  "label": "Flows",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Introducing flows. Studyflow's bread and butter text editor that provides in-built support for flashcards, tasks, dynamic content, all while being able to handle massive documents."
+  }
+}
