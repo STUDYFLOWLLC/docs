@@ -1,0 +1,23 @@
+---
+sidebar_position: 2
+---
+
+# Setting up Your Profile
+
+Enter your name, username, and (optional) profile picture.
+
+## Name
+
+Your name may be autofilled if you signed in with Google. Feel free to use a pseudonym if you like!
+
+## Username
+
+Your username must pass three checks:
+
+- be composed of lowercase letters and numbers
+- be unique amongst Studyflow students
+- periods and underscores are permitted, but they must be inside
+
+## Profile Picture
+
+You may optionally upload a profile image. Click the upload button and select any image file.
