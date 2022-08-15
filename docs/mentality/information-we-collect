@@ -1,0 +1,22 @@
+<!-- ---
+sidebar_position: 2
+---
+
+# Information We Collect
+
+We believe that companies should be more transparent to users about the data they collect on them. We have therefore decided to release all the types (not the data themselves) of data that we collect on each student.
+
+## Student Information
+- When the student created their account
+- What setup step the student is in
+- A unique ID representing the student
+- The student's default flow visibility
+- The student's email
+- The student's bio
+- The student's about
+- The student's name
+- The student's username
+- The student's profile picture
+- Whether or not the student has requested access to automation
+- Whether or not the student has received access to automation
+- The student's school -->

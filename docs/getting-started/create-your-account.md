@@ -18,7 +18,7 @@ Our current authentication provider is Google. Using Google helps us keep your i
 
 ![GoogleSignIn](../../static/img/Tutorial/googlesignin.png)
 
-Don't worry about the weird URL. We have already contacted Google about it. Your're in the right place!
+Don't worry about the weird URL. We have already contacted Google about it. You're in the right place!
 
 ## That's it
 
