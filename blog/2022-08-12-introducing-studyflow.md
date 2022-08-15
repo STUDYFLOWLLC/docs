@@ -36,6 +36,5 @@ We finally arrive at the point. Here are Studyflow's core features.
 5. Flow sharing. **Share your flows publicly** or grant other students permission to see your private flows.
 6. Automation. Connect your Google Drive account, then take a note in your note-taking app of choice (we recommend Notability or Goodnotes), and a flow with a repetition and note template will **automatically** be made for you.
 
-Barring automation, each of these numbers respectively have their own apps. Getting them all to work together is very difficult and requires immense discipline (see the history of Studyflow). We have hand-picked the best features of all the great productivity apps, tailored them to students, and have made them easy to use.
-
+Barring automation, each of these numbers respectively have their own apps. Getting them all to work together is very difficult and requires immense discipline (more on the history of Studyflow soon). We have hand-picked the best features of all the great productivity apps, tailored them to students, and have made them easy to use.
 Moral of the story: Studyflow is one variable. If you don't get great grades you know what is wrong. We won't let you down. [Sign up now](https://studyflow.ai/login)
