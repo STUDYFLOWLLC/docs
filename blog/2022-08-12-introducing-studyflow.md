@@ -30,7 +30,7 @@ And then it doesn't work. You don't get straight A's. Your dad tells you, "Did y
 We finally arrive at the point. Here are Studyflow's core features.
 
 1. Task managing for students. <i>Every</i> other major task manager is made for **employees of mega corporations**. Studyflow is **built for students**, and handles labelling, grouping, and planning for you.
-2. Flashcards. Create a flashard stack. Review them (swiping left for wrong, up for meh, and right for correct). All the flashcards you create have an **individual review history** that you can view. (Coming soon) we will recommend to you what flashcards to review next.
+2. Flashcards. Create a flashcard stack. Review them (swiping left for wrong, up for meh, and right for correct). All the flashcards you create have an **individual review history** that you can view. (Coming soon) we will recommend to you what flashcards to review next.
 3. Repetitions. A repetition includes a stack of flashcards and a set of review tasks (based on a scientific **spaced repeition** schedule), so you can memorize all the content you need to know.
 4. Flows. A text editor that can handle flashcards, tasks, and repetitions. What usually takes 4 apps and mass confusion now works **beautifully together all in one document**.
 5. Flow sharing. **Share your flows publicly** or grant other students permission to see your private flows.
